@@ -36,7 +36,7 @@ Implement interactivity using JavaScript for form validation or dynamic content.
 
 Feel free to contribute by opening issues or pull requests for any enhancements or bug fixes!
 
-THANKYOU!!! FOR VISITING MY WEBSITE...
+THANKYOU!!! FOR VISITING MY WEBSITE..
 
 
 
