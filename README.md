@@ -22,7 +22,7 @@ How to Use
 
 To view the website:
 
-Clone this repository to your local machine using git clone https://github.com/your-username/your-repository.git.
+Clone this repository to your local machine using git clone  https://webcoder309.github.io/Simple-Portfolio-Website/
 
 Open the index.html file in your preferred web browser to view the home page.
 
